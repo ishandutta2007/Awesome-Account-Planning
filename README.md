@@ -21,26 +21,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## SaaS/Hosted Platforms
 
 ### Core Platforms (Account Planning & Key Account Management)
-- **[Altify](https://altify.com/)**
-  Salesforce-native AI-powered account planning, relationship mapping, opportunity mapping, and strategic revenue execution platform.
-- **[People.ai](https://www.people.ai/)**
-  AI-driven account strategy, automated account plans, dynamic org charts, relationship mapping, and whitespace analysis inside Salesforce.
-- **[Uptics](https://uptics.io/)**
-  Sales automation CRM with multi-channel outreach, deal pipelines, and account management capabilities for outbound and growth teams.
-- **[Membrain](https://www.membrain.com/)**
-  B2B growth platform with dedicated Account Growth module for visualizing key accounts, stakeholder influence maps, goal tracking, and expansion planning.
-- **[Revegy](https://www.revegy.com/)**
-  Strategic sales account planning software with relationship maps, customer strategy maps, whitespace analysis, AI research, and health scorecards.
-- **[Strategic Relationship Solutions (SRS)](https://www.srscan.com/)**
-  Specialists in complex contracting, partnering, and collaboration management using relational contracting models and structured relationship frameworks.
-- **[Salesforce Account Plans](https://help.salesforce.com/s/articleView?id=sales.account_plans.htm)**
-  Native Salesforce Sales Account Plans for capturing customer needs, setting measurable objectives, tracking actions, and visualizing buyer relationship maps.
-- **[DemandFarm](https://www.demandfarm.com/)**
-  AI-powered key account management and digital account planning suite with white space planners, relationship maps, growth heatmaps, and in-app QBRs.
-- **[ClientPoint](https://www.clientpoint.net/)**
-  Client relationship workspace platform for secure collaboration, proposal automation, document sharing, and managing high-value client engagements.
-- **[Clari](https://www.clari.com/)**
-  Revenue orchestration platform with Align mutual action plans, account strategy workspaces, AI-guided execution, and post-sale retention/expansion planning.
+
+| Platform | Description | Pricing | Free Tier / Limit |
+| :--- | :--- | :--- | :--- |
+| **[Altify](https://altify.com/)** | Salesforce-native AI-powered account planning, relationship mapping, opportunity mapping, and strategic revenue execution platform. | Custom/Enterprise (est. $20-$40/user/mo) | No free tier |
+| **[People.ai](https://www.people.ai/)** | AI-driven account strategy, automated account plans, dynamic org charts, relationship mapping, and whitespace analysis inside Salesforce. | Custom/Enterprise (est. from $50/user/mo) | No free tier |
+| **[Uptics](https://uptics.io/)** | Sales automation CRM with multi-channel outreach, deal pipelines, and account management capabilities for outbound and growth teams. | From $99/month | 14-day free trial only |
+| **[Membrain](https://www.membrain.com/)** | B2B growth platform with dedicated Account Growth module for visualizing key accounts, stakeholder influence maps, goal tracking, and expansion planning. | Paid per module/user | "Active Pipeline Free" (3 full users, 5 lite users, 50 projects) |
+| **[Revegy](https://www.revegy.com/)** | Strategic sales account planning software with relationship maps, customer strategy maps, whitespace analysis, AI research, and health scorecards. | Custom/Enterprise | No free tier |
+| **[Strategic Relationship Solutions (SRS)](https://www.srscan.com/)** | Specialists in complex contracting, partnering, and collaboration management using relational contracting models and structured relationship frameworks. | Custom (Consultancy/Services) | No free tier (Services firm) |
+| **[Salesforce Account Plans](https://help.salesforce.com/s/articleView?id=sales.account_plans.htm)** | Native Salesforce Sales Account Plans for capturing customer needs, setting measurable objectives, tracking actions, and visualizing buyer relationship maps. | Included in Enterprise/Higher tiers | Basic CRM free up to 2 users, no advanced planning |
+| **[DemandFarm](https://www.demandfarm.com/)** | AI-powered key account management and digital account planning suite with white space planners, relationship maps, growth heatmaps, and in-app QBRs. | From $20-$70/user/mo (min 10 users) | No free tier |
+| **[ClientPoint](https://www.clientpoint.net/)** | Client relationship workspace platform for secure collaboration, proposal automation, document sharing, and managing high-value client engagements. | Est. $50-$95/user/mo | No free tier |
+| **[Clari](https://www.clari.com/)** | Revenue orchestration platform with Align mutual action plans, account strategy workspaces, AI-guided execution, and post-sale retention/expansion planning. | Custom/Enterprise (est. $200-$310/user/mo) | No free tier |
+
 
 ## Open-Source GitHub Projects
 

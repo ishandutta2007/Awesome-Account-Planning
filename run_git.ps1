@@ -1,0 +1,10 @@
+git add . ; git commit -m "Added company size and sorted the SaaS based on that" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "Added github stars and sorted the opensource based on that" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "added banner" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "added emojis" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "seo optimised" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "badges to left added" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "badges to right added" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "star history added" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "fixed star plot" ; git -c http.sslVerify=false push
+git add . ; git commit --allow-empty -m "invalid awesome link fixed" ; git -c http.sslVerify=false push
